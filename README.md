@@ -18,3 +18,5 @@ Or download the zip file from the <>Code area.
 
 ## Console-based user-interface
 ![Console User Interface](https://github.com/mbxisbankai/farmscan/issues/1#issue-2752376752)
+
+Easy to use user-interface, with dialogue options each step of the way
