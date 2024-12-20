@@ -1,2 +1,5 @@
-# farmscan
-Malware scanner for farmer's data
+## farmscan
+
+#Kenyan farmers'solution to pesky cyber attacks
+
+Mixing agriculture and cybersecurity for a revolutionized agricultural center
