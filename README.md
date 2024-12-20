@@ -17,4 +17,4 @@ sudo pip3 install -r requirements.txt
 Or download the zip file from the <>Code area.
 
 ## Console-based user-interface
-![b64]
+![b64](https://github.com/mbxisbankai/farmscan/issues/1#issue-2752376752)
