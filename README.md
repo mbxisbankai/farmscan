@@ -15,3 +15,6 @@ sudo pip3 install -r requirements.txt
 
 ```
 Or download the zip file from the <>Code area.
+
+## Console-based user-interface
+![b64]
