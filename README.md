@@ -1,5 +1,5 @@
-## farmscan
+### farmscan
 
-#Kenyan farmers'solution to pesky cyber attacks
+## Kenyan farmers'solution to pesky cyber attacks
 
-Mixing agriculture and cybersecurity for a revolutionized agricultural center
+Mixing agriculture and cybersecurity for a revolutionized agricultural sector.
