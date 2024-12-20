@@ -8,7 +8,7 @@ Mixing agriculture and cybersecurity for a revolutionized agricultural sector.
 Follow these steps.
 
 ```
-git clone https://github.com.mbxisbankai/farmscan
+git clone https://github.com/mbxisbankai/farmscan
 cd ./farmscan
 chmod +x farmscan.py
 sudo pip3 install -r requirements.txt
